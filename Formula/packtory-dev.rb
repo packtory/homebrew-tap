@@ -1,8 +1,8 @@
 class PacktoryDev < Formula
   desc "An easy to use system packaging tool for your Ruby gems"
   homepage "https://gemfury.com"
-  url "https://github.com/packtory/homebrew-tap/releases/download/v0.1.4.pre1/packtory-0.1.4.tar.gz"
-  sha256 "f007a7370954a08aa0a0202b0ad46307af06a03491ba7a8fe23fe9eeeb6f3839"
+  url "https://github.com/packtory/homebrew-tap/releases/download/v0.1.4.pre1/packtory-dev-0.1.4.tar.gz"
+  sha256 "e99915a20c6a052f2a64d00fc24680f2d0668b49b2373dda7649f5596280dca8"
   conflicts_with('packtory', 'packtory-beta')
 
   def package_name
