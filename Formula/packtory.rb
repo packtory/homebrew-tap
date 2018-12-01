@@ -6,7 +6,7 @@ class Packtory < Formula
 
   devel do
     url "https://github.com/packtory/homebrew-tap/releases/download/devel/packtory-0.1.4.tar.gz"
-    sha256 "4d2851a23f8f2a866243f880a76b1c71761866918a482ef9cd7eaec3a0a5741c"
+    sha256 "dacd34e570e2a09ee965a1cebfcb1cbf841148d0acc53653c7d80cfb9c1758d0"
   end
 
   def package_name
