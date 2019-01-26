@@ -1,12 +1,12 @@
 class Packtory < Formula
   desc "An easy to use system packaging tool for your Ruby gems"
   homepage "https://gemfury.com"
-  url "https://github.com/packtory/homebrew-tap/releases/download/v0.1.3/packtory-0.1.3.tar.gz"
-  sha256 "58370942c36cd8df7da72471a64d6644224aab665281c22153a741acbf23dcac"
+  url "https://github.com/packtory/homebrew-tap/releases/download/v0.1.5/packtory-0.1.5.tar.gz"
+  sha256 "847efbee862199837805cb77a143e64c2d66e723be3243ecfcfc245198791f59"
 
   devel do
-    url "https://github.com/packtory/homebrew-tap/releases/download/devel/packtory-0.1.4.tar.gz"
-    sha256 "dacd34e570e2a09ee965a1cebfcb1cbf841148d0acc53653c7d80cfb9c1758d0"
+    url "https://github.com/packtory/homebrew-tap/releases/download/devel/packtory-0.1.5.tar.gz"
+    sha256 "847efbee862199837805cb77a143e64c2d66e723be3243ecfcfc245198791f59"
   end
 
   def package_name
